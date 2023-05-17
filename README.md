@@ -1,6 +1,8 @@
 <div id='header' align='center'>
-  <h1>Hi there, I'm Aleksandr</h1> 
-  <h3>data analyst, market researcher</h3> 
+<h2>Hi, I'm Alexander</h2> 
+<!-- <h4>I'm work as a data analyst, projects manager at market research company</h4> -->
+I'm a Data Analyst, with experience in Market Research
+<h4></h4>
 </div>
 <div id='socials' align='center'>
 <a href='https://www.linkedin.com/in/alexander-iliyn-a58a521/'>
@@ -15,10 +17,10 @@
 </div>
 
 <div id='about me' align='center'>
-<h3>About me<h3> 
-  
+<!-- <h3>About me<h3> -->
+
 <div id='stack' align='center'>
-<h4>Technical Stack<h4>
+<h4>Tech Stack<h4>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title='Python' width='60' height='60'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" title='PostgreSQL' width='60' height='60'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-plain.svg" title='SPSS' width='60' height='60'/>&nbsp;
