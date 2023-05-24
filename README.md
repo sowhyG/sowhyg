@@ -16,6 +16,7 @@ I'm a Data Analyst, with competencies in Market Research
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title='GitHub' width='60' height='60'/>&nbsp;
 <!--<img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" title='Power BI' width='80' height='60'/>&nbsp;-->
 <img src="https://logo-base.com/logo/power_bi_logo_microsoft.svg" title='Power BI' width='100' height='80'/>&nbsp;
+<!--<img src="https://upload.wikimedia.org/wikipedia/ru/thumb/0/06/Tableau_logo.svg/250px-Tableau_logo.svg.png" title='Tableu' width='220' height='50'/>&nbsp;-->
 <!--<img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" title='Tableu' width='140' height='60'/>&nbsp;-->
 </a>  
 </div>
