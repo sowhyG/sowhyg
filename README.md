@@ -33,7 +33,7 @@ I'm a Data Analyst, with competencies in Market Research
     <img src='https://img.shields.io/badge/Gmail-FA5838?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail'/> 
 </a>  
 </div>
-<!-- <a href="https://www.linkedin.com/in/alexander-iliyn-a58a521/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/alexvalerin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://t.me/s0why" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
 <a href="sowhyg@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
 -->
